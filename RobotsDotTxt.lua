@@ -38,12 +38,13 @@ local function Initialize()
             Modes.Humanize
         )
 
-        Settings.CreateDropdown(
+        local initializer = Settings.CreateDropdown(
             category,
             setting,
             GetModeOptions,
             L("Filtering")
         )
+        initializer:AddSearchTags(L("robots.txt"))
     end
 
     Settings.RegisterAddOnCategory(category)
