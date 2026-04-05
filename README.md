@@ -1,2 +1,4 @@
-# RobotsDotTxt
-Suppress spam from other WoW addons contacting you.
+# robots.txt
+A World of Warcraft addon that ensures no evil CraftScan _bot_ will ever accidentally provide you with prompt, free service again. Finally, you can return to the safe space of Dragonflight Season 1 and spam trade chat for hours, hunting for that elusive _human_ crafter who will provide you with the glorious, high-quality interaction you crave, such as "I can" or "me".
+
+For users that want some nostalgic waiting while still getting their item crafted some time this week an additional _Humanize_ filter is available. In this mode, all messages from CraftScan will be delayed by a random human-like amount, shortened to ensure no useful information about the craft is provided, and will include a few typos so you really get the feeling that a human just ripped a burrito out of their mouth to start typing as quickly as possible.
