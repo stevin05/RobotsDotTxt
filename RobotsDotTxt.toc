@@ -1,0 +1,10 @@
+## Interface: 120000
+## Title: |cffffd100robots.txt|r
+## Version: 1.0.0
+## Notes: Restores the "natural order" of trade chat.
+## Category: Professions
+## Author: Stevin
+## SavedVariables: RobotsDotTxtDB
+## IconTexture: Interface\Icons\Trade_blacksmithing
+
+RobotsDotTxt.lua
